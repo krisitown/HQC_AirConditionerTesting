@@ -1,0 +1,6 @@
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\BigMani.exe.config
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\BigMani.csprojResolveAssemblyReference.cache
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\BigMani.exe
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\BigMani.pdb
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\BigMani.exe
+C:\Exam\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\BigMani.pdb
